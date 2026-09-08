@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11789275,
       "digest": "sha256:8f12d20b9fa385ca0fe8e6879ad9a9ca68a87e29411a158aa1ea1c2619f2fb3a",
-      "download_count": 235,
+      "download_count": 236,
       "created_at": "2026-04-11T15:03:30Z",
       "updated_at": "2026-04-11T15:03:31Z",
       "browser_download_url": "https://github.com/vicentereig/whatsapp-cli/releases/download/v1.3.3/whatsapp-cli-darwin-arm64.tar.gz"
