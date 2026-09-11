@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.3"
   latestRelease: "v1.3.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:05:14Z
+  collectedAt: 2026-09-11T06:04:04Z
 timeline:
   created: 2025-10-26
   lastCommit: 2026-08-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-11
   lastPrerelease: 
 popularity:
-  star: 195
+  star: 196
   watcher: 1
   fork: 29
   release: 7
@@ -86,7 +86,7 @@ total:
   commit: 32
 ---
 path: /home/runner/.x-repo/github.com/vicentereig/whatsapp-cli
-collectedAt: 2026-09-11T00:05:15Z
+collectedAt: 2026-09-11T06:04:05Z
 loc:
   Go:
     code: 2900
