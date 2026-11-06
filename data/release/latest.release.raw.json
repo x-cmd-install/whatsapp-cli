@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 492,
       "digest": "sha256:c1be3776fd13204ade5aa5cc3afa27a34c25c5740a9a27899d653fd0e7b9a5e7",
-      "download_count": 80,
+      "download_count": 82,
       "created_at": "2026-04-11T15:03:30Z",
       "updated_at": "2026-04-11T15:03:30Z",
       "browser_download_url": "https://github.com/vicentereig/whatsapp-cli/releases/download/v1.3.3/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3244,
       "digest": "sha256:298c0c7cea585ee57b36e965b52355dd710ef4d924570e5a27c471e6a5e29c35",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-04-11T15:03:30Z",
       "updated_at": "2026-04-11T15:03:30Z",
       "browser_download_url": "https://github.com/vicentereig/whatsapp-cli/releases/download/v1.3.3/checksums.txt.pem"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3244,
       "digest": "sha256:3fcfd2edfc464207a0bb03a7282d05ea77e10ae5587d47a6ae86b1a73588b034",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-04-11T15:03:30Z",
       "updated_at": "2026-04-11T15:03:30Z",
       "browser_download_url": "https://github.com/vicentereig/whatsapp-cli/releases/download/v1.3.3/whatsapp-cli-darwin-arm64.tar.gz.pem"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:f9cf9dd26131b2381500fbaeb9a8b9ec7562fc6c1e7219adeedee6f2b0d77230",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-04-11T15:03:30Z",
       "updated_at": "2026-04-11T15:03:30Z",
       "browser_download_url": "https://github.com/vicentereig/whatsapp-cli/releases/download/v1.3.3/whatsapp-cli-darwin-arm64.tar.gz.sig"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11836106,
       "digest": "sha256:bb0e9fc134cf217b88d00e7ea1f6ac4ba3a288dcf79a52f1419bebae0739ccf6",
-      "download_count": 416,
+      "download_count": 422,
       "created_at": "2026-04-11T15:03:30Z",
       "updated_at": "2026-04-11T15:03:31Z",
       "browser_download_url": "https://github.com/vicentereig/whatsapp-cli/releases/download/v1.3.3/whatsapp-cli-linux-amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 12161439,
       "digest": "sha256:f5b6fc9f4d76ed4f1084d1ce4b5f0a981112c9533ade55ce2fc9e2c116115d69",
-      "download_count": 182,
+      "download_count": 186,
       "created_at": "2026-04-11T15:03:30Z",
       "updated_at": "2026-04-11T15:03:31Z",
       "browser_download_url": "https://github.com/vicentereig/whatsapp-cli/releases/download/v1.3.3/whatsapp-cli-windows-amd64.zip"
