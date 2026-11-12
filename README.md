@@ -38,7 +38,7 @@ Total: **3,670** lines of code across **30** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 206 · **Forks**: 33 · **Open issues**: 15 · **Contributors**: 7
+- **Stars**: 207 · **Forks**: 33 · **Open issues**: 15 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **3,670** lines of code across **30** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 0 | 3 | 0 | 1 | 0 | 6 |
-| 360d | 2025-11-15 | 3 | 7 | 0 | 14 | 0 | 19 |
-| last720d | 2024-11-20 | 7 | 7 | 0 | 15 | 0 | 32 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 0 | 3 | 0 | 1 | 0 | 6 |
+| 360d | 2025-11-17 | 3 | 7 | 0 | 14 | 0 | 19 |
+| last720d | 2024-11-22 | 7 | 7 | 0 | 15 | 0 | 32 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for whatsapp-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:44:27Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:54:00Z._
